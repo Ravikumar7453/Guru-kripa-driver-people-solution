@@ -1,11 +1,5 @@
 # Guru-kripa-driver-people-solution
-Driver Services  Guru Kripa Driver People Solution provides reliable, professional, and verified driver services for businesses and transport operators across India. Our focus is on safety, punctuality, and customer satisfaction.  Our Services  * Experienced commercial and heavy vehicle drivers * Driver recruitment and placement * 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Guru Kripa Driver People Solution</title>
+< ravi kumar >
 
 <style>
 *{
@@ -16,8 +10,8 @@ Driver Services  Guru Kripa Driver People Solution provides reliable, profession
 }
 
 body{
-    background:#f5f7fa;
-    color:#333;
+    background:#f;
+    color:# red;
 }
 
 header{
